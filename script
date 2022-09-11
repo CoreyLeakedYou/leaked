@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
                 Title = "Notification",
-                Text = "this script was leaked by panty#0001! discord.gg/oko son!",
+                Text = "this script was made by panty#0001! ps the original owners r skids so here a remake ;)",
                 Duration = 15,
             })
 local amount = fovamount
@@ -2333,7 +2333,7 @@ Credits.BorderSizePixel = 5
 Credits.Position = UDim2.new(-0.00101006031,0,0.948468387,0)
 Credits.Size = UDim2.new(0,187,0,22)
 Credits.Font = Enum.Font.SourceSansBold
-Credits.Text = "UI Design by !fishgang Karma#9669"
+Credits.Text = "panty#0001 hehehaw"
 Credits.TextColor3 = Color3.fromRGB(255,255,255)
 Credits.TextSize = 14.000
 
