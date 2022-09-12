@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
                 Title = "Notification",
-                Text = "this script was made by panty#0001! ps the original owners r skids so here a remake ;)",
+                Text = "this script was leaked by panty#0001! discord.gg/oko son!",
                 Duration = 15,
             })
 local amount = fovamount
@@ -30,8 +30,8 @@ end)
 end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-                    Title = "sons";
-                    Text = "corey owns u! (;";
+                    Title = "flowzy";
+                    Text = "HittingHeadshots - Aimcancels Paid Script. (;";
                         })
 
 game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(KeyPressed)
@@ -461,7 +461,7 @@ game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
     
 if (string.lower(msg) == "/hvh") then
 
-game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents").SayMessageRequest:FireServer("hehehaw corey runs u XD","All")
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents").SayMessageRequest:FireServer("[hehehaw corey runs u XD","All")
 
 if pcall(readfile,"CyrusStreetsAdminSettings") then
     writefile("CyrusStreetsAdminSettings.json",readfile("CyrusStreetsAdminSettings"))
@@ -978,7 +978,7 @@ end
 local function Char(Plr)
 local Tool = Plr:FindFirstChildOfClass'Tool'
         if Tool:FindFirstChild'Fire' then 
-                return 'has shot u',Tool
+                return 'beamed u fucking corey sped',Tool
         else 
                 return 'hit you',Tool
         end
@@ -2034,7 +2034,7 @@ AddCommand(function(Arguments)
         FeLoop = not FeLoop
         if FeLoop and not CanUseFeloop then
                 wait(0.5)
-                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("To use Feloop, Say 'K' In Chat -Dollar","All")
+                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("To use Feloop, Say 'K' In Chat -Corey","All")
                 local Chat = LP.Chatted:Wait()
                 if Chat:lower() ~= "k" then LP:Kick('That answer is wrong.') else CanUseFeloop = true end
         end
@@ -2333,7 +2333,7 @@ Credits.BorderSizePixel = 5
 Credits.Position = UDim2.new(-0.00101006031,0,0.948468387,0)
 Credits.Size = UDim2.new(0,187,0,22)
 Credits.Font = Enum.Font.SourceSansBold
-Credits.Text = "panty#0001 hehehaw"
+Credits.Text = "UI Design by !fishgang Karma#9669"
 Credits.TextColor3 = Color3.fromRGB(255,255,255)
 Credits.TextSize = 14.000
 
@@ -3135,7 +3135,7 @@ game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
     
 if (string.lower(msg) == "+tbot") then
 
-game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents").SayMessageRequest:FireServer("[COREY CRACKED UR SCRIPT XD] PANTY 0001 ON TOP DOLLARSK TILL I DIE [TRIGGERBOT] /aim <plr> - /stop","All")
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents").SayMessageRequest:FireServer("[COREY CRACKED UR SCRIPT XD] PANTY 0001 ON TOP DOLLARS SCRIPTK TILL I DIE [TRIGGERBOT] /aim <plr> - /stop","All")
 local following = false
 function psearch(arg)
         for i,v in pairs(game.Players:GetPlayers()) do 
@@ -3344,7 +3344,7 @@ end)
 print([[
 .----------------.
 - \\ corey leaked this script// -
-- // panty#0001 \\ -
+- // panty 0001 \\ -
 - \\ Key Binds // -
 X - Noclip
 C - Reset
