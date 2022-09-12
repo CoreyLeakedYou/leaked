@@ -30,8 +30,8 @@ end)
 end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-                    Title = "flowzy";
-                    Text = "HittingHeadshots - Aimcancels Paid Script. (;";
+                    Title = "haha";
+                    Text = "if u read this ur gay also corey runs u xd";
                         })
 
 game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(KeyPressed)
