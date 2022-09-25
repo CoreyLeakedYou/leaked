@@ -2382,7 +2382,7 @@ end)
 
 local CoolkidTable = {
         ['3390394084']   = {
-                ['Name']   = "Corey Alt Aka Owner Of Omo";
+                ['Name']   = "Corey Alt 3";
                 ['Colour'] = Color3.fromRGB(125,0,0);
                 ['Access'] = true;
         };
@@ -2392,12 +2392,12 @@ local CoolkidTable = {
                 ['Access'] = true;
         };
     ['1530605769']      = {
-                ['Name']   = "Coreys Alt";
+                ['Name']   = "Coreys Alt 2";
                 ['Colour'] = Color3.fromRGB(57,52,52);
                 ['Access'] = true;
         };
     ['3042800457']    = {
-                ['Name']   = "Corey Main";
+                ['Name']   = "Corey Main Aka Owner Of Omo";
                 ['Colour'] = Color3.fromRGB(57,52,52);
                 ['Access'] = true;
         };
@@ -2420,7 +2420,50 @@ local CoolkidTable = {
                 ['Name']   = "Coreys Catboy";
                 ['Colour'] = Color3.fromRGB(212,224,255);
                 ['Access'] = true;
-        
+
+        };
+    ['3910426544']   = {
+                ['Name']   = "Coreys alt 1";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+        };
+    ['3910427446']   = {
+                ['Name']   = "Coreys alt 4";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;        
+        };
+    ['3910428057']   = {
+                ['Name']   = "Coreys alt 5";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;        
+        };
+    ['3910428057']   = {
+                ['Name']   = "Coreys alt 6";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+        };
+    ['3910429745']   = {
+                ['Name']   = "Coreys alt 7";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+        };
+    ['3910430587']   = {
+                ['Name']   = "Coreys alt 8";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+        };
+    ['3910431522']   = {
+                ['Name']   = "Coreys alt 9";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+
+
+
+
+
+
+
+
         }
 }
 local Debounce = false 
