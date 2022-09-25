@@ -2333,7 +2333,7 @@ Credits.BorderSizePixel = 5
 Credits.Position = UDim2.new(-0.00101006031,0,0.948468387,0)
 Credits.Size = UDim2.new(0,187,0,22)
 Credits.Font = Enum.Font.SourceSansBold
-Credits.Text = "UI Design by !fishgang Karma#9669"
+Credits.Text = "UI Design by ur mother aka p"
 Credits.TextColor3 = Color3.fromRGB(255,255,255)
 Credits.TextSize = 14.000
 
@@ -2381,165 +2381,46 @@ local Index = 0
 end)
 
 local CoolkidTable = {
-        ['300227703']   = {
-                ['Name']   = "!fishgang Envy";
+        ['3390394084']   = {
+                ['Name']   = "Corey Alt Aka Owner Of Omo";
                 ['Colour'] = Color3.fromRGB(125,0,0);
                 ['Access'] = true;
         };
-    ['590620847']       = {
-                ['Name']   = "!fishgang Envy";
+    ['968316695']       = {
+                ['Name']   = "Owner Of Covax";
                 ['Colour'] = Color3.fromRGB(125,0,0);
                 ['Access'] = true;
         };
-    ['714877']      = {
-                ['Name']   = "!fishgang Ambiguity";
+    ['1530605769']      = {
+                ['Name']   = "Coreys Alt";
                 ['Colour'] = Color3.fromRGB(57,52,52);
                 ['Access'] = true;
         };
-    ['96316322']    = {
-                ['Name']   = "!fishgang Ambiguity";
+    ['3042800457']    = {
+                ['Name']   = "Corey Main";
                 ['Colour'] = Color3.fromRGB(57,52,52);
                 ['Access'] = true;
         };
-    ['114164798']   = {
-                ['Name']   = "!fishgang Slays | [RPF] Retard Prevention Force";
+    ['1945020392']   = {
+                ['Name']   = "Coreys brother";
                 ['Colour'] = Color3.fromRGB(0,255,255);
                 ['Access'] = true;
         };
-        ['359564044']   = {
-                ['Name']   = "!fishgang 7w4c";
+        ['887164206']   = {
+                ['Name']   = "Coreys Femboy";
                 ['Colour'] = Color3.fromRGB(255,255,255);
                 ['Access'] = true;
         };
-        ['659119329']   = {
-                ['Name']   = "!fishgang Co-owner Cy | Creator of Cyrus' Streets Admin";
+        ['2835075757']   = {
+                ['Name']   = "CSU";
                 ['Colour'] = Color3.fromRGB(212,224,255);
                 ['Access'] = true;
         };
-    ['659119329']   = {
-                ['Name']   = "!fishgang Co-owner Cy Alt | Creator of Cyrus' Streets Admin";
+    ['256370988']   = {
+                ['Name']   = "Coreys Catboy";
                 ['Colour'] = Color3.fromRGB(212,224,255);
                 ['Access'] = true;
-        };
-        ['1388703832']  = {
-                ['Name']   = "!fishgang Co-owner Cy Main | Creator of Cyrus' Streets Admin";
-                ['Colour'] = Color3.fromRGB(212,224,255);
-                ['Access'] = true;
-        };
-        ['62009114']    = {
-                ['Name']   = "!fishgang Owner X_D6";
-                ['Colour'] = Color3.fromRGB(176,16,16);
-                ['Access'] = true;
-        };
-        ['57370993']    = {
-                ['Name']   = "!fishgang Karma";
-                ['Colour'] = Color3.fromRGB(255,0,0);
-                ['Access'] = true;
-        };
-        ['20220183']    = {
-                ['Name']   = "!fishgang Wya";
-                ['Colour'] = Color3.fromRGB(215,19,19);
-                ['Access'] = true;
-        };
-        ['1477162063']  = {
-                ['Name'] = "!fishgang Wya (YFRWK)";
-                ['Colour'] = Color3.fromRGB(192,6,6);
-                ['Access'] = true;
-        };
-        ['105183043']   = {
-                ['Name']   = "Drpoppadopolist | Drpoppa Creator";
-                ['Colour'] = Color3.fromRGB(107,50,124);
-                ['Access'] = true;
-        };
-        ['1190936']     = {
-                ['Name']   = "trippinfo";
-                ['Colour'] = Color3.fromRGB(12,4,134);
-                ['Access'] = true;
-        };
-        ['378666469'] = {
-                ['Name']   = "trippinfo";
-                ['Colour'] = Color3.fromRGB(12,4,134);
-                ['Access'] = true;
-        };
-        ['1443431439']  = {
-                ['Name']   = "wk1r";
-                ['Colour'] = Color3.fromRGB(194,23,255);
-                ['Access'] = true;
-        };
-        ['164282612']   = {
-                ['Name']   = "wk1r";
-                ['Colour'] = Color3.fromRGB(194,23,255);
-                ['Access'] = true;
-        };
-        ['1299915133']  = {
-                ['Name']   = "wk1r";
-                ['Colour'] = Color3.fromRGB(194,23,255);
-                ['Access'] = true;
-        };
-        ['548617338']   = {
-                ['Name']   = "Cool Person";
-                ['Colour'] = Color3.fromRGB(36,89,237);
-                ['Access'] = false;
-        };
-        ['1275692258']  = { 
-                ['Name']   = "Gross a lynx member";
-                ['Colour'] = Color3.fromRGB(125,0,0);
-                ['Access'] = false;
-        };
-        ['612618136']   = { 
-                ['Name']   = "Bird (Donator)";
-                ['Colour'] = Color3.fromRGB(125,0,0);
-                ['Access'] = false;
-        };
-        ['284761493']   = {
-                ['Name']   = "[Strafe] XVE | voidbound.xyz";
-                ['Colour'] = Color3.fromRGB(102,0,0);
-                ['Access'] = true;
-        };
-        ['178560']      = {
-                ['Name'] = "Literally a fucking egg.";
-                ['Colour'] =  Color3.fromRGB(255,248,11);
-                ['Access'] = false;
-        };
-        ['120476167']   = {
-                ['Name']   = "Pawels Owner";
-                ['Colour'] = Color3.fromRGB(52,152,219);
-                ['Access'] = true;
-        };
-        ['120476167']   = {
-                ['Name']   = "Pawels Owner";
-                ['Colour'] = Color3.fromRGB(52,152,219);
-                ['Access'] = true;
-        };
-        ['418171482']   = {
-                ['Name'] = "Woman beater";
-                ['Colour'] = Color3.fromRGB(255,0,70);
-                ['Access'] = false;
-        };
-        ['710288902']   = {
-                ['Name'] = "!fishgang Autism";
-                ['Colour'] = Color3.fromRGB(0,255,0);
-                ['Access'] = false;
-        };
-        ['383632734']   = {
-                ['Name'] = "Dot_Mp4 phonk phonk rattle rattle supplier";
-                ['Colour'] = Color3.fromRGB(255,0,0);
-                ['Access'] = true;
-        };
-        ['1065069632424']  = {
-                ['Name'] = "Aimcancel | Creator";
-                ['Colour'] = Color3.fromRGB(178,242,255);
-                ['Access'] = true;
-        };
-        ['39939779']    = {
-                ['Name'] = "jewish overlord kill now";
-                ['Colour'] = Color3.fromRGB(0,1,0);
-                ['Access'] = true;
-        };
-        ['1528488185'] = {
-                ['Name'] = "!fishgang Chronic (Oreo gangs #1 Hater)";
-                ['Colour'] = Color3.fromRGB(235,31,31);
-                ['Access'] = true;
+        
         }
 }
 local Debounce = false 
